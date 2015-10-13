@@ -1,8 +1,8 @@
 {
   "name": "storage-interface",
-  "version": "0.0.1",
-  "description": "common storage interface for Node.js",
-  "main": "storage.js",
+  "version": "0.0.2",
+  "description": "common storage interfaces for Node.js",
+  "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
