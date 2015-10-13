@@ -6,6 +6,9 @@
   "scripts": {
     "test": "mocha"
   },
+  "dependencies": {
+    "es6-promise": "^3"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/richRemer/storage-interface"
